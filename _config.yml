@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://vpribeiro73.github.io
+title: Awesome
+email: vpribeiro@hotmail.com.br
+author: vpribeiro73
+description: My awesome new site
+paginate: 5
+google_analytics: 
