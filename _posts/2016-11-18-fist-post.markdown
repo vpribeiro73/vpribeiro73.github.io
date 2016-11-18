@@ -1,0 +1,11 @@
+---
+published: true
+title: Fist Post
+layout: post
+tags: [first, post]
+categories: [posts]
+permalink: first-post
+---
+Lorem ipsum dolor sit amet, cum et tollit mucius intellegebat. Has id ullum dolor comprehensam. Sit admodum consequuntur et. Est quot iriure ne, at alia mollis accumsan eam. Pri quot oporteat ex, eripuit blandit ut pro.
+
+Sed facete disputationi ne, ne option pertinax vel, no paulo civibus eum. At pri lucilius dissentiunt, usu no probo posse sonet. Mucius sanctus incorrupte nam at, eros munere maluisset ei usu. Mundi facilis duo ex, eu primis graecis sententiae per, ad mucius molestie persequeris vix. Vim sale mandamus te.
