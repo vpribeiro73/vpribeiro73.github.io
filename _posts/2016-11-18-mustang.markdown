@@ -1,0 +1,11 @@
+---
+published: true
+title: Mustang
+layout: post
+tags: [mustang]
+categories: [posts]
+permalink: mustang
+---
+#Awesome one page responsive HTML template
+
+[see it in action](http://vpribeiro.com/jobs/web/templates/tang73/)
