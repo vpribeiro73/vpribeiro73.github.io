@@ -1,6 +1,6 @@
 ---
 published: true
-title: Fifth Post Mount Everst
+title: Fifth Post Mount Everest
 layout: post
 tags: [Fifth, Post, Mount, Everst]
 categories: [adventure]
